@@ -1,0 +1,4 @@
+name: Serverless Jenkins
+runs:
+  using: docker
+  image: Dockerfile
